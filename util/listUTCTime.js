@@ -1,3 +1,5 @@
+// Listamos los atributos que personalmente consideramos necesarios para hacer la sincronización entre maquinas, o minimamente realizar un ejemplo
+// Pretendemos sincronizar todas las maquinas al horario UTC
 function listUTCTime() {
     const date = new Date();
     
